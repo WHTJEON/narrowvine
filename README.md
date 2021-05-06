@@ -9,7 +9,11 @@ The Ultimate Widevine Content Ripper (KEY Extract + Download + Decrypt)<br>
 - ffmpeg, yt-dlp, aria2 (These must be in PATH)
 
 ```
-$ pip install ffmpeg yt-dlp aria2p
+$ pip install ffmpeg yt-dlp aria2p pycrypodome pycryptodomex
+```
+or just simply
+```
+$ pip install -r requirements.txt
 ```
 ## Instructions For Windows
 1. Clone or Download the Repo.
