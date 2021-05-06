@@ -1,5 +1,5 @@
 # NARROWVINE
-The Ultimate Widevine Content Ripper (KEY Extract + DL)<br>
+The Ultimate Widevine Content Ripper (KEY Extract + Download + Decrypt)<br>
 **Extracting decryption keys from `MPD_URL` and `LICENSE_URL` only supports Windows.** 
 - If you are using a different platform, you would need to extract decryption keys using Widevine L3 decryptor first and paste them into the script. 
 - This is a combination of widevine-dl and widevineclient3 in my repo. 
