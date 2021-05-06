@@ -43,7 +43,7 @@ $ pip install -r requirements.txt
 $ python3 narrowvine.py -mpd "https://bitmovin-a.akamaihd.net/content/art-of-motion_drm/mpds/11331.mpd" -license "https://widevine-proxy.appspot.com/proxy"
 ```
 ## DLL Dependencies
-If you get `ucrtbased.dll` and `vcruntime140d.dll` missing error when running `license_proxy.exe`, Download and unzip [32bit.zip](https://github.com/WHTJEON/narrowvine/files/6438020/32bit.zip) to `..\Windows\System32` and download and unzip [64bit.zip](https://github.com/WHTJEON/narrowvine/files/6438018/64bit.zip) to `..\Windows\SysWOW64`.
+If you get `ucrtbased.dll` and `vcruntime140d.dll` missing error when running `license_proxy.exe`, download and unzip [32bit.zip](https://github.com/WHTJEON/narrowvine/files/6438020/32bit.zip) to `..\Windows\System32` and download and unzip [64bit.zip](https://github.com/WHTJEON/narrowvine/files/6438018/64bit.zip) to `..\Windows\SysWOW64`.
 
 ## Legal Notice
 Educational purposes only. Downloading DRM'ed materials may violate their Terms of Service.
