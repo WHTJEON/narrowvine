@@ -27,7 +27,8 @@ $ pip install ffmpeg yt-dlp aria2p
 7. Your decrypted contents will be merged and saved to /output directory. 
 
 ## Inputs
-- `MPD URL` - MPD URL of Widevine Content
+- `MPD_URL` - MPD URL of Widevine Content
+- `LICENSE_URL` - LICENSE URL of Widevine Content
 - `VIDEO_ID` - Video Track ID Shown in Stream Info *(Leave blank for best)*
 - `AUDIO_ID` - Audio Track ID Shown in Stream Info *(Leave blank for best)*
 - `FILENAME` - Desired File Name of Final Decrypted File *(with extension!)*
