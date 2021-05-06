@@ -1,7 +1,7 @@
 # NARROWVINE
 The Ultimate Widevine Content Ripper (KEY Extract + Download + Decrypt)<br>
 **Extracting decryption keys only supports Windows.** 
-- If you are using a different platform, you would need to extract decryption keys using Widevine L3 decryptor first and paste them into the script. 
+- If you are using a different platform, you would need to extract decryption keys using Widevine L3 decryptor from a Windows Machine first and paste them into the script. 
 - This is a combination of widevine-dl and widevineclient3 in my repo. 
 - This exploit will be patched by Widevine in May 31st, 2021.
 
