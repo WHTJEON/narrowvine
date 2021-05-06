@@ -1,3 +1,5 @@
 yt-dlp
 ffmpeg
 aria2p
+pycryptodome
+pycryptodomex
