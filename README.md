@@ -16,7 +16,7 @@ or just simply
 $ pip install -r requirements.txt
 ```
 ## Instructions For Windows
-1. Clone or Download the Repo.
+1. Clone or Download the Repo
 2. Run narrowvine.py
   ```
   $ python3 narrowvine.py
@@ -27,7 +27,7 @@ $ pip install -r requirements.txt
 
   ![2](https://user-images.githubusercontent.com/57805304/117309054-0c19c700-aebd-11eb-93b4-230af77e83a1.PNG)
 
-6. Enter `FILENAME` with extension! (ex. final.mp4)
+6. Enter `FILENAME` with extension! (ex. `final.mp4`)
 7. Your decrypted contents will be merged and saved to /output directory. 
 
 ## Inputs
@@ -42,6 +42,9 @@ $ pip install -r requirements.txt
 ```
 $ python3 narrowvine.py -mpd "https://bitmovin-a.akamaihd.net/content/art-of-motion_drm/mpds/11331.mpd" -license "https://widevine-proxy.appspot.com/proxy"
 ```
+## DLL Dependencies
+If you get `ucrtbased.dll` and `vcruntime140d.dll` missing error when running `license_proxy.exe`, Download and unzip [32bit.zip](https://github.com/WHTJEON/narrowvine/files/6438020/32bit.zip) to `..\Windows\System32` and download and unzip [64bit.zip](https://github.com/WHTJEON/narrowvine/files/6438018/64bit.zip) to `..\Windows\SysWOW64`.
+
 ## Legal Notice
 Educational purposes only. Downloading DRM'ed materials may violate their Terms of Service.
 
