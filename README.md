@@ -16,7 +16,7 @@ or just simply
 $ pip install -r requirements.txt
 ```
 ## Instructions For Windows
-1. Clone or Download the Repo
+1. Clone or Download the Repo (It is more recommended to download a compiled version from [Releases](https://github.com/WHTJEON/narrowvine/releases))
 2. Run narrowvine.py
   ```
   $ python3 narrowvine.py
