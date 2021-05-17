@@ -6,10 +6,11 @@ The Ultimate Widevine Content Ripper (KEY Extract + Download + Decrypt)<br>
 - This exploit will be patched by Widevine in May 31st, 2021.
 
 ## Requirements
-- ffmpeg, yt-dlp, aria2, pycryptodome, pycryptodomex (These must be in PATH)
+- ffmpeg, yt-dlp, aria2 (These must be in PATH. If you want to skip this procedure, download from [Releases](https://github.com/WHTJEON/narrowvine/releases))
+- pycryptodome
 
 ```
-$ pip install ffmpeg yt-dlp aria2p pycryptodome pycryptodomex
+$ pip install ffmpeg yt-dlp aria2p pycryptodome
 ```
 or just simply
 ```
