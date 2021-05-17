@@ -47,7 +47,7 @@ $ python3 narrowvine.py -mpd "https://bitmovin-a.akamaihd.net/content/art-of-mot
 If you get `ucrtbased.dll` and `vcruntime140d.dll` missing error when running `license_proxy.exe`, download and unzip [32bit.zip](https://github.com/WHTJEON/narrowvine/files/6438020/32bit.zip) to `..\Windows\System32` and download and unzip [64bit.zip](https://github.com/WHTJEON/narrowvine/files/6438018/64bit.zip) to `..\Windows\SysWOW64`.
 
 ## Legal Notice
-Educational purposes only. Downloading DRM'ed materials may violate their Terms of Service.
+Educational purposes only. Downloading DRM'ed materials may violate their Terms of Service. DO NOT USE THIS FOR PIRACY.
 
 ##
 If you enjoyed using the script, a star or a follow will be highly appreciated! 😎
