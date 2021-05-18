@@ -1,4 +1,6 @@
-# NARROWVINE
+# NARROWVINE  
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![GitHub forks](https://img.shields.io/github/forks/WHTJEON/narrowvine)](https://github.com/WHTJEON/narrowvine/network) [![GitHub stars](https://img.shields.io/github/stars/WHTJEON/narrowvine?color=red)](https://github.com/WHTJEON/narrowvine/stargazers) [![Github All Releases](https://img.shields.io/github/downloads/WHTJEON/narrowvine/total.svg)]() [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 The Ultimate Widevine Content Ripper (KEY Extract + Download + Decrypt)<br>
 **Extracting decryption keys only supports Windows.** 
 - If you are using a different platform, you would need to extract decryption keys using Widevine L3 decryptor from a Windows Machine first and paste them into the script. 
