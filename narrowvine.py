@@ -203,7 +203,7 @@ def merge_content():
 	if PLATFORM == "Windows":
 		os.system('%s -i %s/decrypted_video.mp4 -i %s/decrypted_audio.m4a -c:v copy -c:a copy %s/"%s"'%(FFMPEG_PATH,TEMPORARY_PATH,TEMPORARY_PATH,OUTPUT_PATH,FILENAME))
 	else: 
-		os.system('ffmpeg -i %s/decrypted_video.mp4 -i %s/decrypted_audio.m4a -c:v copy -c:a copy %s/"%s"'%(TEMPORARY_PATH,TEMPORARY_PATH,OUTPUT_PATH,FILENAME))
+		os.system('ffmpeg --hide-banner -i %s/decrypted_video.mp4 -i %s/decrypted_audio.m4a -c:v copy -c:a copy %s/"%s"'%(TEMPORARY_PATH,TEMPORARY_PATH,OUTPUT_PATH,FILENAME))
 		
 parser=argparse.ArgumentParser()
 parser.add_argument('-mpd', required=False, default="NULL")
