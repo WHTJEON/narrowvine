@@ -1,7 +1,7 @@
 # NARROWVINE  
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![Github All Releases](https://img.shields.io/github/downloads/WHTJEON/narrowvine/total.svg)]() [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## (2021.6.1) Widevine revoked every exploit used in this script. It's dead.
+## (2021.6.1) Widevine revoked every exploit used in this script. It's dead.<br>It is reported to still work in some sites, but most of them are revoked.
 
 The Ultimate Widevine Content Ripper (KEY Extract + Download + Decrypt)<br>
 **Extracting decryption keys only supports Windows.** 
